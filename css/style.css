@@ -203,8 +203,8 @@ section {
 
 */
 
-.help:before {
-  background: url("../images/help_bg_image.jpg");
+.photography:before {
+  background: url("../images/photograph_bg.jpg");
 }
 .blog:before {
   background: url("../images/blog_bg.jpg");
