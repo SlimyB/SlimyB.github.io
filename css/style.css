@@ -497,7 +497,7 @@ section {
   padding-right: 20px;
 }
 
-.work-items li:hover .portfolio-detail{
+.work-items li:hover .work-detail{
   opacity: 1;
   box-shadow: inset 0 0 0 10px #222;
 }
